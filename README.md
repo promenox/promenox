@@ -3,6 +3,7 @@ Welcome to my GitHub homepage. I am Michael Kimber.
 
 ## Portfolio Video 🎬
 **1 min 55 sec** ⌚️
+Dog Fairy Magic. 👑 🐕 Enjoy. 
 [![Michael Kimber's Portfolio Cover Video](assets/mkimber_portfolio_cover_img.png)](https://youtu.be/W6GLbJJNRk0)
 
 This video is intended to showcase elements of my creative process. Clicking the cover image will redirect to an unlisted YouTube video. If that somehow breaks, please use the [following link](https://youtu.be/W6GLbJJNRk0). 
@@ -26,7 +27,7 @@ In the future, I intend to have sub-pages that re-direct to elements showcased o
 - [Website](https://promenox.github.io/) (Work in progress... 👷‍♂️)
 
 ##
-_* This page is under construction._ 🏗️ Last updated: 11/29/2025 @ 05:06 AM UTC.
+_* This page is under construction._ 🏗️ Last updated: 11/29/2025 @ 05:46 AM UTC.
 <!--
 **promenox/promenox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
