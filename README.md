@@ -23,12 +23,12 @@ In the future, I intend to have sub-pages that re-direct to elements showcased o
 - Design Thinking.
 - Stuff I Taught.
 
-## Check out my socials:
+## Socials
 - [LinkedIn](https://www.linkedin.com/in/m-kimber/)
 - [Website](https://promenox.github.io/) (Work in progress... 👷‍♂️)
 
 ##
-_* This page is under construction._ 🏗️ Last updated: 11/29/2025 @ 04:54 AM UTC.
+_* This page is under construction._ 🏗️ Last updated: 11/29/2025 @ 05:04 AM UTC.
 <!--
 **promenox/promenox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
