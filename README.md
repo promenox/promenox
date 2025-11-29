@@ -1,5 +1,11 @@
-## Hi there 👋
-I am working on my github cover page. Last updated: 10/09/2025... It's my birthday btw! 🥳
+# Hi there 👋
+Welcome to my GitHub homepage. There is a lot that under construction. 🏗️
+
+## Portfolio
+I am putting the portfolio video front and center to align with recent work. 
+[![Michael Kimber's Portfolio Cover Video](assets/mkimber_portfolio_cover_img.png)](https://youtu.be/W6GLbJJNRk0)
+
+Last updated: 11/28/2025
 <!--
 **promenox/promenox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
