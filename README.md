@@ -1,10 +1,14 @@
 <p align="center">
-  <a href="https://git.io/typing-svg#gh-dark-mode-only">
-    <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=48&pause=1000&color=FFFFFF&width=700&lines=Michael+Kimber." alt="Michael Kimber Dark Mode"/>
-  </a>
-  <a href="https://git.io/typing-svg#gh-light-mode-only">
-    <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=48&pause=1000&color=000000&width=700&lines=Michael+Kimber." alt="Michael Kimber Light Mode"/>
-  </a>
+  <!-- Dark Mode -->
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=56&pause=1000&color=FFFFFF&vCenter=true&width=900&height=140&lines=Michael+Kimber.#gh-dark-mode-only"
+    alt="Michael Kimber Dark Mode"
+  />
+  <!-- Light Mode -->
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=56&pause=1000&color=000000&vCenter=true&width=900&height=140&lines=Michael+Kimber.#gh-light-mode-only"
+    alt="Michael Kimber Light Mode"
+  />
 </p>
 
 # Hi There! 👋
