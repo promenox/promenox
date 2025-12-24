@@ -1,5 +1,11 @@
-[![Michael Kimber Animated - DarkMode](https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=24&pause=1000&color=FFFFFF&center=true&width=435&lines=Michael+Kimber.)](https://git.io/typing-svg#gh-dark-mode-only)
-[![Michael Kimber Animated - LightMode](https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=24&pause=1000&color=000000&center=true&width=435&lines=Michael+Kimber.)](https://git.io/typing-svg#gh-light-mode-only)
+<p align="center">
+  <a href="https://git.io/typing-svg#gh-dark-mode-only">
+    <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=48&pause=1000&color=FFFFFF&width=700&lines=Michael+Kimber." alt="Michael Kimber Dark Mode"/>
+  </a>
+  <a href="https://git.io/typing-svg#gh-light-mode-only">
+    <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=48&pause=1000&color=000000&width=700&lines=Michael+Kimber." alt="Michael Kimber Light Mode"/>
+  </a>
+</p>
 
 # Hi There! 👋
 Welcome to my GitHub homepage. I am Michael Kimber. 
