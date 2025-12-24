@@ -1,17 +1,14 @@
+# Hi There! 👋
 <div>
   <!-- Dark Mode -->
   <a href="https://git.io/typing-svg#gh-dark-mode-only">
-    <img src="https://readme-typing-svg.demolab.com?font=Verdana&size=56&pause=1000&color=FFFFFF&width=1000&height=90&lines=Michael+Kimber." alt="Michael Kimber Dark Mode" />
+    <img src="https://readme-typing-svg.demolab.com?font=Verdana&size=56&pause=1000&color=FFFFFF&width=1000&height=90&lines=I+am+Michael+Kimber." alt="Michael Kimber Dark Mode" />
   </a>
   <!-- Light Mode -->
   <a href="https://git.io/typing-svg#gh-light-mode-only">
-    <img src="https://readme-typing-svg.demolab.com?font=Verdana&size=56&pause=1000&color=000000&width=1000&height=90&lines=Michael+Kimber." alt="Michael Kimber Light Mode" />
+    <img src="https://readme-typing-svg.demolab.com?font=Verdana&size=56&pause=1000&color=000000&width=1000&height=90&lines=I+am+Michael+Kimber." alt="Michael Kimber Light Mode" />
   </a>
 </div>
-<hr>
-
-# Hi There! 👋
-Welcome to my GitHub homepage.
 
 ## Portfolio Video 🎬
 **1 min 55 sec** ⌚️
