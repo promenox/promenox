@@ -1,4 +1,5 @@
-![Michael Kimber](assets/mkimber_name_test.gif)
+[![Michael Kimber Animated - DarkMode](https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=24&pause=1000&color=FFFFFF&center=true&width=435&lines=Michael+Kimber.)](https://git.io/typing-svg#gh-dark-mode-only)
+[![Michael Kimber Animated - LightMode](https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=24&pause=1000&color=000000&center=true&width=435&lines=Michael+Kimber.)](https://git.io/typing-svg#gh-light-mode-only)
 
 # Hi There! 👋
 Welcome to my GitHub homepage. I am Michael Kimber. 
