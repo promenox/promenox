@@ -13,8 +13,8 @@
 ## Portfolio Video 🎬
 This video showcases my creative process. Clicking the cover image redirects to an unlisted YouTube video. If that somehow breaks, please use the [following link](https://youtu.be/W6GLbJJNRk0). 
 
-<p><b>1 min 55 sec ⌚️</b></p> 
 <p>👑🪄🐕 Dog Fairy Magic. Enjoy.</p>
+<p><b>1 min 55 sec ⌚️</b></p> 
 
 [![Michael Kimber's Portfolio Cover Video](assets/mkimber_portfolio_cover_img.png)](https://youtu.be/W6GLbJJNRk0)
 
