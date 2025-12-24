@@ -1,16 +1,5 @@
-<p align="center">
-  <!-- Dark Mode -->
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Verdana&size=56&pause=1000&color=FFFFFF&vCenter=true&width=900&height=140&lines=Michael+Kimber.#gh-dark-mode-only"
-    alt="Michael Kimber Dark Mode"
-  />
-
-  <!-- Light Mode -->
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Verdana&size=56&pause=1000&color=000000&vCenter=true&width=900&height=140&lines=Michael+Kimber.#gh-light-mode-only"
-    alt="Michael Kimber Light Mode"
-  />
-</p>
+![Michael Kimber - Dark Mode](https://readme-typing-svg.demolab.com?font=Verdana&size=56&pause=1000&color=FFFFFF&vCenter=true&width=900&height=140&lines=Michael+Kimber.#gh-dark-mode-only)
+![Michael Kimber - Light Mode](https://readme-typing-svg.demolab.com?font=Verdana&size=56&pause=1000&color=000000&vCenter=true&width=900&height=140&lines=Michael+Kimber.#gh-light-mode-only)
 
 # Hi There! 👋
 Welcome to my GitHub homepage. I am Michael Kimber. 
