@@ -1,3 +1,5 @@
+![Michael Kimber](assets/mkimber_name_test.gif)
+
 # Hi There! 👋
 Welcome to my GitHub homepage. I am Michael Kimber. 
 
