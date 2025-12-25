@@ -1,4 +1,5 @@
 # Hi There! 👋
+🚧 Under Construction 🚧 
 <div>
   <!-- Dark Mode -->
   <a href="https://git.io/typing-svg#gh-dark-mode-only">
@@ -11,16 +12,12 @@
 </div>
 
 ## Portfolio Video 🎬
-This video showcases my creative process. Clicking the cover image redirects to an unlisted YouTube video. If that somehow breaks, please use the [following link](https://youtu.be/W6GLbJJNRk0). 
+I made this video to explaing my creative process. Click the cover image to watch the unlisted YouTube video, otherwise [click this link](https://youtu.be/W6GLbJJNRk0). 
 
-<p>👑🪄🐕 Dog Fairy Magic. Enjoy.</p>
-<p><b>1 min 55 sec ⌚️</b></p> 
+<p>👑🪄🐕 Doggo Fairy Magic. Enjoy.</p>
+<p><b>Vid Length: </b>1 min 55 sec</p> 
 
 [![Michael Kimber's Portfolio Cover Video](assets/mkimber_portfolio_cover_img.png)](https://youtu.be/W6GLbJJNRk0)
-
-If that link is also broken, connect with me on LinkedIn and I'll fix it.
-
-In the future, I intend to have sub-pages that re-direct to elements showcased on this homepage. 
 
 ### Video Highlights
 - Narrative Framework.
@@ -31,6 +28,10 @@ In the future, I intend to have sub-pages that re-direct to elements showcased o
 - Math / Physics.
 - Design Thinking.
 - Stuff I Taught.
+
+<!--
+Sub-pages will re-direct to elements showcased on homepage. 
+-->
 
 ## Socials
 - [LinkedIn](https://www.linkedin.com/in/m-kimber/)
