@@ -10,12 +10,14 @@
     <img src="https://readme-typing-svg.demolab.com?font=Verdana&size=56&pause=1000&color=000000&width=1000&height=90&lines=I+am+Michael+Kimber." alt="Michael Kimber Light Mode" />
   </a>
 </div>
+
 ## Care About Green Squares? 🟩🤔
-Green squares ≠ actual work - read my dev docs. Commits only counted on default branch (main / master).
-I follow an intentional branching strategy...
-🟩 🟩 🟩 🟩 🟩 ◼️ 🟩 ◼️ 🟩 🟩
-◼️ ◼️ 🟩 ◼️ 🟩 🟩 🟩 🟩 ◼️ 🟩
-🟩 🟩 🟩 ◼️ 🟩 ◼️ ◼️ 🟩 ◼️ 🟩
+
+Green squares ≠ actual work. Commits only counted on default branch (main / master).
+I follow an intentional branching strategy.
+<p>|🟩 🟩 🟩 🟩 🟩 ◼️ 🟩 ◼️ 🟩 🟩 🟩 🟩 🟩 ◼️ 🟩 ◼️ ◼️ 🟩 ◼️ ◼️|</p>
+<p>|◼️ ◼️ 🟩 ◼️ 🟩 🟩 🟩 🟩 ◼️ 🟩 🟩 ◼️ 🟩 🟩 🟩 ◼️ 🟩 ◼️ 🟩 🟩|</p>
+<p>|🟩 🟩 🟩 ◼️ 🟩 ◼️ ◼️ 🟩 ◼️ 🟩 🟩 🟩 🟩 ◼️ 🟩 ◼️ ◼️ 🟩 ◼️ 🟩|</p>
 
 ## Portfolio Video 🎬
 I made this video to explaing my creative process. Click the cover image to watch the unlisted YouTube video, otherwise [click this link](https://youtu.be/W6GLbJJNRk0). 
