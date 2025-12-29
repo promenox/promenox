@@ -35,6 +35,11 @@ I made this video to explaing my creative process. Click the cover image to watc
 - Design Thinking.
 - Stuff I Taught.
 
+## Happening Now
+I am implementing a [DSA playbook](https://docs.google.com/document/d/1bOqdAuzw33F0etx2T_SikiQQF-7Pi8Id_x5f5dGEZII/edit?usp=sharing) of learned patterns. Checkout the [repository](https://github.com/promenox/dsa-playbook).
+<img width="1449" height="861" alt="Screenshot 2025-12-29 at 09 06 06" src="https://github.com/user-attachments/assets/6fbe16d1-f31e-4871-bfa2-c9b9f9dcbfa5" />
+
+
 <!--
 Sub-pages will re-direct to elements showcased on homepage. 
 -->
