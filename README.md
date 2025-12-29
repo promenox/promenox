@@ -39,7 +39,7 @@ Sub-pages will re-direct to elements showcased on homepage.
 - [Website](https://promenox.github.io/) (Work in progress... 👷‍♂️)
 
 ##
-_* This page is under construction._ 🏗️ Last updated: 11/29/2025 @ 05:46 AM UTC.
+_* This page is under construction._ 🏗️ Last updated: 12/28/2025.
 <!--
 **promenox/promenox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
