@@ -10,6 +10,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Verdana&size=56&pause=1000&color=000000&width=1000&height=90&lines=I+am+Michael+Kimber." alt="Michael Kimber Light Mode" />
   </a>
 </div>
+Heads up about those little green squares. 
 
 ## Portfolio Video 🎬
 I made this video to explaing my creative process. Click the cover image to watch the unlisted YouTube video, otherwise [click this link](https://youtu.be/W6GLbJJNRk0). 
@@ -53,3 +54,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Looking at Green Squares? 🟩🤔
+For DSA, I follow an intentional branching strategy. Green squares ≠ actual work - check the commits. 
