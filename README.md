@@ -11,12 +11,6 @@
   </a>
 </div>
 
-## Green Squares? 🟩🤔
-
-Green squares ≠ actual work. Commits only counted on default branch (main / master).
-I follow an intentional branching strategy.
-<img width="760" height="207" alt="Screenshot 2025-12-28 at 21 58 36" src="https://github.com/user-attachments/assets/108a6413-067f-4ce7-9d38-a584221a0907" />
-
 ## Portfolio Video 🎬
 I made this video to explaing my creative process. Click the cover image to watch the unlisted YouTube video, otherwise [click this link](https://youtu.be/W6GLbJJNRk0). 
 
