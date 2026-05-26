@@ -22,6 +22,7 @@ Sub-pages will re-direct to elements showcased on homepage.
 -->
 
 <img src="./assets/pixelFox-optimize.gif?raw=true" alt="fox" width="100"/>
+Some Random ADHD Track: [Listen Here 🎧](https://metadata.promenox.workers.dev/spotify)
 
 ##
 _* This page is under construction._ 🏗️ Last updated: 'a time'.
