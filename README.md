@@ -22,10 +22,11 @@ Sub-pages will re-direct to elements showcased on homepage.
 -->
 
 <img src="./assets/pixelFox-optimize.gif?raw=true" alt="fox" width="100"/>
-Some Random ADHD Track: [Listen Here 🎧](https://metadata.promenox.workers.dev/spotify)
+~ Promenox.
+<p>🎧 Some Random Track: <a href="https://metadata.promenox.workers.dev/spotify">Listen Here </a></p>
 
 ##
-_* This page is under construction._ 🏗️ Last updated: 'a time'.
+_* This page is under construction._ 🏗️ Last updated: 'a void of time'.
 <!--
 **promenox/promenox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
