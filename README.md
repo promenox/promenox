@@ -20,6 +20,8 @@ I am implementing a [DSA playbook](https://docs.google.com/document/d/1bOqdAuzw3
 Sub-pages will re-direct to elements showcased on homepage. 
 -->
 
+<img src=".assets/pixelFox-optimize.gif" alt="fox" width="100"/>
+
 ##
 _* This page is under construction._ 🏗️ Last updated: 'a time'.
 <!--
