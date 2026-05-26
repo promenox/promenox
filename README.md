@@ -3,6 +3,8 @@
 ## WIPs
 - Combat & Clandestine Intel. Get shunky! 🦨
 - MLOPS (Risk Prob Sim - Optimization).
+- Predictive Models. 
+- AI / Robotics. 
 - Physical Modeling Simulation.
 - First Principles Ingenuity (Atomic Strat).
 
