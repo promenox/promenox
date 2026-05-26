@@ -1,4 +1,11 @@
 # Hi There! 👋
+
+## WIPs
+- Combat & Clandestine Intel.
+- MLOPS (Risk Prob Sim - Optimization).
+- Physical Modeling Simulation.
+- First Principles Ingenuity (Atomic Strat).
+
 🚧 Under Construction 🚧 
 
 <!--
@@ -12,7 +19,7 @@ Sub-pages will re-direct to elements showcased on homepage.
 -->
 
 ##
-_* This page is under construction._ 🏗️ Last updated: 03/05/2026.
+_* This page is under construction._ 🏗️ Last updated: 'a time'.
 <!--
 **promenox/promenox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
