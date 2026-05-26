@@ -1,7 +1,7 @@
 # Tactical Dev Pipeline 
 
 ## WIPs
-- Combat & Clandestine Intel.
+- Combat & Clandestine Intel. Get shunky! 🦨
 - MLOPS (Risk Prob Sim - Optimization).
 - Physical Modeling Simulation.
 - First Principles Ingenuity (Atomic Strat).
