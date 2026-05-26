@@ -1,4 +1,4 @@
-# Hi There! 👋
+# Tactical Dev Pipeline 
 
 ## WIPs
 - Combat & Clandestine Intel.
