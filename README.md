@@ -23,7 +23,7 @@ Sub-pages will re-direct to elements showcased on homepage.
 
 <img src="./assets/pixelFox-optimize.gif?raw=true" alt="fox" width="100"/>
 ~ Promenox.
-<p>🎧 Some Random Track: <a href="https://metadata.promenox.workers.dev/spotify">Listen Here </a></p>
+<p>🎧 Some Random Track I Like: <a href="https://metadata.promenox.workers.dev/spotify">Listen Here </a></p>
 
 ##
 _* This page is under construction._ 🏗️ Last updated: 'a void of time'.
