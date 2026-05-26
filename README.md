@@ -1,6 +1,7 @@
 # Tactical Dev Pipeline 
 
 ## WIPs
+- Entrop.
 - Combat & Clandestine Intel. Get shunky! 🦨
 - MLOPS (Risk Prob Sim - Optimization).
 - Predictive Models. 
